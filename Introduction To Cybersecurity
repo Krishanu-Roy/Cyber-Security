@@ -74,6 +74,52 @@ For example, a cyber attack could shut down the power grid of a major city. Cons
 Types of Malware
 Cybercriminals use many different types of malicious software, or malware, to carry out their activities. Malware is any code that can be used to steal data, bypass access controls, or cause harm to or compromise a system. Knowing what the different types are and how they spread is key to containing and removing them.
 
+Social Engineering
+Slide show. Select the next button to progress.
+Social engineering is the manipulation of people into performing actions or divulging confidential information. Social engineers often rely on people’s willingness to be helpful, but they also prey on their weaknesses. For example, an attacker will call an authorized employee with an urgent problem that requires immediate network access and appeal to the employee’s vanity or greed or invoke authority by using name-dropping techniques in order to gain this access.
+
+Select the arrows to find out more about some common types of social engineering attacks.
+
+Something for something (quid pro quo)
+This is when an attacker requests personal information from a person in exchange for something, like a free gift.
+
+Denial-of-Service
+This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text.
+Denial-of-Service (DoS) attacks are a type of network attack that is relatively simple to carry out, even by an unskilled attacker. A DoS attack results in some sort of interruption of network service to users, devices or applications.
+
+Distributed DoS
+A Distributed DoS (DDoS) attack is similar to a DoS attack but originates from multiple, coordinated sources. For example:
+
+An attacker builds a network (botnet) of infected hosts called zombies, which are controlled by handler systems.
+The zombie computers will constantly scan and infect more hosts, creating more and more zombies.
+When ready, the hacker will instruct the handler systems to make the botnet of zombies carry out a DDoS attack.
+
+Distributed DoS
+A Distributed DoS (DDoS) attack is similar to a DoS attack but originates from multiple, coordinated sources. For example:
+
+An attacker builds a network (botnet) of infected hosts called zombies, which are controlled by handler systems.
+The zombie computers will constantly scan and infect more hosts, creating more and more zombies.
+When ready, the hacker will instruct the handler systems to make the botnet of zombies carry out a DDoS attack.
+
+Botnet
+A bot computer is typically infected by visiting an unsafe website or opening an infected email attachment or infected media file. A botnet is a group of bots, connected through the Internet, that can be controlled by a malicious individual or group. It can have tens of thousands, or even hundreds of thousands, of bots that are typically controlled through a command and control server.
+
+These bots can be activated to distribute malware, launch DDoS attacks, distribute spam email, or execute brute-force password attacks. Cybercriminals will often rent out botnets to third parties for nefarious purposes.
+
+Many organizations. like Cisco, force network activities through botnet traffic filters to identify any botnet locations.
+
+On-Path Attacks
+This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text.
+On-path attackers intercept or modify communications between two devices, such as a web browser and a web server, either to collect information from or to impersonate one of the devices.
+
+This type of attack is also referred to as a man-in-the-middle or man-in-the-mobile attack.
+
+What Is Encryption?
+
+Encryption is the process of converting information into a form in which unauthorized parties cannot read it. Only a trusted, authorized person with the secret key or password can decrypt the data and access it in its original form.
+
+Note that the encryption itself does not prevent someone from intercepting the data. It can only prevent an unauthorized person from viewing or accessing the content. In fact, some criminals may decide to simply encrypt your data and make it unusable until you pay a ransom.
+
 
 
 
